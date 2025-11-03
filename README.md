@@ -19,3 +19,4 @@
 - [TEMPMAIL](https://temp-mail.org/) - Temporary email.
 - [Claseflix](https://claseflix.io/) - Courses.
 - [VirusTotal](https://www.virustotal.com/gui/) - Antivirus.
+- [Squoosh](https://squoosh.app/) - Image optimizer.
