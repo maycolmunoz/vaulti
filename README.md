@@ -21,3 +21,4 @@
 - [VirusTotal](https://www.virustotal.com/gui/) - Antivirus.
 - [Squoosh](https://squoosh.app/) - Image optimizer.
 - [Draw.io](https://www.diagrams.net/) - Diagram maker.
+- [Excalidraw](https://excalidraw.com/) - Sketch maker.
