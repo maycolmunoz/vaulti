@@ -22,3 +22,4 @@
 - [Squoosh](https://squoosh.app/) - Image optimizer.
 - [Draw.io](https://www.diagrams.net/) - Diagram maker.
 - [Excalidraw](https://excalidraw.com/) - Sketch maker.
+- [iLovePDF](https://www.ilovepdf.com/) - PDF editor.
