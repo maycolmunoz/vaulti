@@ -23,3 +23,4 @@
 - [Draw.io](https://www.diagrams.net/) - Diagram maker.
 - [Excalidraw](https://excalidraw.com/) - Sketch maker.
 - [iLovePDF](https://www.ilovepdf.com/) - PDF editor.
+- [Internet Archive](https://archive.org/) - Digital library.
