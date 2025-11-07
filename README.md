@@ -24,3 +24,4 @@
 - [Excalidraw](https://excalidraw.com/) - Sketch maker.
 - [iLovePDF](https://www.ilovepdf.com/) - PDF editor.
 - [Internet Archive](https://archive.org/) - Digital library.
+- [WolframAlpha](https://www.wolframalpha.com/) - Computational intelligence.
