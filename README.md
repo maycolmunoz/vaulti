@@ -25,3 +25,4 @@
 - [iLovePDF](https://www.ilovepdf.com/) - PDF editor.
 - [Internet Archive](https://archive.org/) - Digital library.
 - [WolframAlpha](https://www.wolframalpha.com/) - Computational intelligence.
+- [Vocaroo](https://vocaroo.com/) - Voice recorder.
