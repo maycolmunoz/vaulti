@@ -28,3 +28,4 @@
 - [Vocaroo](https://vocaroo.com/) - Voice recorder.
 - [LlamaCoder](https://llamacoder.together.ai/) - Code generator.
 - [Readme.so](https://readme.so/) - Readme maker.
+- [Andi](https://andisearch.com/) - AI-powered search engine.
