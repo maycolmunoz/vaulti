@@ -31,3 +31,4 @@
 - [Andi](https://andisearch.com/) - AI-powered search engine.
 - [Open Source Alternative](https://www.opensourcealternative.to/) - Software alternatives directory.
 - [GPRM](https://gprm.itsvg.in/) - GitHub profile maker.
+- [Speedtest](https://www.speedtest.net/) - Internet speed test.
