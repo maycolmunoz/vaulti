@@ -36,3 +36,4 @@
 - [Symbaloo](https://www.symbaloo.com/) - Bookmark manager.
 - [Wallhaven](https://wallhaven.cc/) - Wallpaper repository.
 - [ChatGPT](https://chatgpt.com/) - Chat with IA.
+- [Gemini](https://gemini.google.com/app) - Chat with IA.
