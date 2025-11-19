@@ -39,3 +39,4 @@
 - [Gemini](https://gemini.google.com/app) - Chat with IA.
 - [DeepSeek](https://chat.deepseek.com/) - Chat with IA.
 - [MAS](https://massgrave.dev/) - Microsoft Activation Scripts.
+- [DAREBEE](https://darebee.com/) - Fitness and wellness portal.
