@@ -1,6 +1,7 @@
 ## Content
 
 - [Tools](#tools)
+- [Entertainment](#entertainment)
 
 ---
 
@@ -41,3 +42,6 @@
 - [MAS](https://massgrave.dev/) - Microsoft Activation Scripts.
 - [DAREBEE](https://darebee.com/) - Fitness and wellness portal.
 - [OldMapsOnline](https://www.oldmapsonline.org/) - History map.
+
+
+## Entertainment
