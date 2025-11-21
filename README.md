@@ -45,3 +45,5 @@
 
 
 ## Entertainment
+
+- [LACartoons](https://www.lacartoons.com/) - Cartoon series.
