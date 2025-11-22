@@ -47,3 +47,4 @@
 ## Entertainment
 
 - [LACartoons](https://www.lacartoons.com/) - Cartoon series.
+- [South Park](https://www.southpark.lat/) - South Park episodes.
