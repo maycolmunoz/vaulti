@@ -43,6 +43,7 @@
 - [DAREBEE](https://darebee.com/) - Fitness and wellness portal.
 - [OldMapsOnline](https://www.oldmapsonline.org/) - History map.
 - [SkipVids](https://skipvids.com/) - No-Ads YouTube player & downloader.
+- [Sweezy Cursors](https://sweezy-cursors.com/) - Cursors directory.
 
 ## Entertainment
 
