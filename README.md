@@ -45,6 +45,7 @@
 - [SkipVids](https://skipvids.com/) - No-Ads YouTube player & downloader.
 - [Sweezy Cursors](https://sweezy-cursors.com/) - Cursors directory.
 - [Human Pictogram](https://pictogram2.com/?page_id=2&lang=en) - Pictogram gallery.
+- [SMART](https://smart.servier.com/) - Medical illustration library.
 
 ## Entertainment
 
