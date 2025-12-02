@@ -55,3 +55,4 @@
 - [AutoDraw](https://www.autodraw.com/) - Canvas with AI.
 - [Radio Garden](https://radio.garden/) - Global online radio.
 - [StevenUniverse.best](https://stevenuniverse.best/) - Cartoon streaming.
+- [Hacker Typer](https://hackertyper.net/) - Keystroke simulator.
