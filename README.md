@@ -57,3 +57,4 @@
 - [StevenUniverse.best](https://stevenuniverse.best/) - Cartoon streaming.
 - [Hacker Typer](https://hackertyper.net/) - Keystroke simulator.
 - [EmuOS](https://emupedia.net/beta/emuos/) - Retro Operating System Simulator.
+- [Jigidi](https://www.jigidi.com/) - Jigsaw puzzles.
