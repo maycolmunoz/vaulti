@@ -59,3 +59,4 @@
 - [EmuOS](https://emupedia.net/beta/emuos/) - Retro Operating System Simulator.
 - [Jigidi](https://www.jigidi.com/) - Jigsaw puzzles.
 - [WindowSwap](https://www.window-swap.com/) - Windows shared from around the world.
+- [Slow Roads](https://slowroads.io/) - Endless driving.
