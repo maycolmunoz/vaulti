@@ -60,3 +60,4 @@
 - [Jigidi](https://www.jigidi.com/) - Jigsaw puzzles.
 - [WindowSwap](https://www.window-swap.com/) - Windows shared from around the world.
 - [Slow Roads](https://slowroads.io/) - Endless driving.
+- [Messenger](https://messenger.abeto.co/) - Messenger game.
