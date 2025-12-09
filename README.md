@@ -46,6 +46,7 @@
 - [Sweezy Cursors](https://sweezy-cursors.com/) - Cursors directory.
 - [Human Pictogram](https://pictogram2.com/?page_id=2&lang=en) - Pictogram gallery.
 - [SMART](https://smart.servier.com/) - Medical illustration library.
+- [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) - Pet Illustrations Maker.
 
 ## Entertainment
 
