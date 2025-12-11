@@ -48,6 +48,7 @@
 - [SMART](https://smart.servier.com/) - Medical illustration library.
 - [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) - Pet Illustrations Maker.
 - [Distrochooser](https://distrochooser.de/) - Linux distro Chooser.
+- [PhET](https://phet.colorado.edu/) - Science simulator.
 
 ## Entertainment
 
