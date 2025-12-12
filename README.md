@@ -49,6 +49,7 @@
 - [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) - Pet Illustrations Maker.
 - [Distrochooser](https://distrochooser.de/) - Linux distro Chooser.
 - [PhET](https://phet.colorado.edu/) - Science simulator.
+- [AI For Work](https://www.aiforwork.co/) - ChatGPT prompts and resource library.
 
 ## Entertainment
 
