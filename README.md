@@ -65,3 +65,4 @@
 - [WindowSwap](https://www.window-swap.com/) - Windows shared from around the world.
 - [Slow Roads](https://slowroads.io/) - Endless driving.
 - [Messenger](https://messenger.abeto.co/) - Messenger game.
+- [Hordes.io](https://hordes.io/) - 3D browser MMORPG.
