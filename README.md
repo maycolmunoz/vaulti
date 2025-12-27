@@ -46,12 +46,12 @@
 - [Sweezy Cursors](https://sweezy-cursors.com/) - Cursors directory.
 - [Human Pictogram](https://pictogram2.com/?page_id=2&lang=en) - Pictogram gallery.
 - [SMART](https://smart.servier.com/) - Medical illustration library.
-- [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) - Pet Illustrations Maker.
+- [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) - Pet illustrations maker.
 - [Distrochooser](https://distrochooser.de/) - Linux distro Chooser.
 - [PhET](https://phet.colorado.edu/) - Science simulator.
 - [AI For Work](https://www.aiforwork.co/) - ChatGPT prompts and resource library.
-- [Air Loom](https://objectiveunclear.com/airloom.html) - Real-time 3D Flight Tracking.
-- [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive Galaxy Visualization.
+- [Air Loom](https://objectiveunclear.com/airloom.html) - Real-time 3D flight tracking.
+- [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive galaxy visualization.
 - [Repair Café](https://www.repaircafe.org/) - Global movement for repairing broken items.
 - [Bab.la](https://bab.la/) - Interactive language portal.
 
