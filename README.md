@@ -52,6 +52,7 @@
 - [AI For Work](https://www.aiforwork.co/) - ChatGPT prompts and resource library.
 - [Air Loom](https://objectiveunclear.com/airloom.html) - Real-time 3D Flight Tracking.
 - [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive Galaxy Visualization.
+- [Repair Café](https://www.repaircafe.org/) - Global movement for repairing broken items.
 
 ## Entertainment
 
