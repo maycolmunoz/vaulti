@@ -78,6 +78,7 @@
 - [LingoHut](https://www.lingohut.com/) – Language learning platform.
 - [Bab.la](https://bab.la/) – Language dictionary and tools.
 - [DAREBEE](https://darebee.com/) – Fitness and training programs.
+- [Capacítate para el Empleo](https://capacitateparaelempleo.org/) – An educational initiative.
 
 
 ## Entertainment
