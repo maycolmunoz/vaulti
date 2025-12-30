@@ -40,6 +40,7 @@
 - [Human Pictogram](https://pictogram2.com/) – Human pictogram gallery.
 - [SMART](https://smart.servier.com/) – Medical illustration library.
 - [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) – Pet illustration generator.
+- [Thiings](https://www.thiings.co/things) – A digital inventory system.
 
 
 ## Productivity
