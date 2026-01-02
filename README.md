@@ -41,6 +41,7 @@
 - [SMART](https://smart.servier.com/) – Medical illustration library.
 - [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) – Pet illustration generator.
 - [Thiings](https://www.thiings.co/things) – A digital inventory system.
+- [Pexels](https://www.pexels.com/) – Free stock photos and videos platform.
 
 
 ## Productivity
