@@ -83,6 +83,7 @@
 - [Bab.la](https://bab.la/) – Language dictionary and tools.
 - [DAREBEE](https://darebee.com/) – Fitness and training programs.
 - [Capacítate para el Empleo](https://capacitateparaelempleo.org/) – An educational initiative.
+- [Curso-Ingles](https://www.curso-ingles.com/) – Free online english course.
 
 
 ## Entertainment
