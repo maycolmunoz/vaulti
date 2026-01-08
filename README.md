@@ -99,3 +99,4 @@
 - [South Park](https://www.southpark.lat/) – South Park episodes.
 - [StevenUniverse.best](https://stevenuniverse.best/) – Cartoon streaming.
 - [Hordes.io](https://hordes.io/) – Browser-based MMORPG.
+- [Build It](https://builditapp.com/) – Minecraft building guides.
