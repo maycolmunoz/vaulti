@@ -42,6 +42,7 @@
 - [Uchinoko-Maker](https://uchinoko-maker.jp/?lang=en) – Pet illustration generator.
 - [Thiings](https://www.thiings.co/things) – A digital inventory system.
 - [Pexels](https://www.pexels.com/) – Free stock photos and videos platform.
+- [Animagraffs](https://animagraffs.com/) – Animated infographics.
 
 
 ## Productivity
