@@ -75,6 +75,7 @@
 - [Anna's Archive](https://es.annas-archive.org/activity) – The world's largest open library.
 - [Muted.io](https://muted.io/) – Interactive music theory learning tools.
 - [MotorMatchup](https://www.motormatchup.com/) – Automotive comparison resource.
+- [System Requirements Lab](https://www.systemrequirementslab.com/cyri) – PC game compatibility checker.
 
 
 ## Learning
