@@ -77,6 +77,7 @@
 - [MotorMatchup](https://www.motormatchup.com/) – Automotive comparison resource.
 - [System Requirements Lab](https://www.systemrequirementslab.com/cyri) – PC game compatibility checker.
 - [RenderCV](https://rendercv.com/) – Professional document design system.
+- [Passport Index](https://www.passportindex.org/) – Global passport ranking.
 
 
 ## Learning
