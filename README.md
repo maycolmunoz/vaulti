@@ -19,6 +19,7 @@
 - [Excalidraw](https://excalidraw.com/) – Hand-drawn style diagrams.
 - [GPRM](https://gprm.itsvg.in/) – GitHub profile README generator.
 - [MAS](https://massgrave.dev/) – Microsoft activation scripts.
+- [SQL-Easy](https://www.sql-easy.com/) – SQL learning resource.
 
 
 ## AI & Search
